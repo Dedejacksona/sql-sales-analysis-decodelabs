@@ -38,4 +38,12 @@ Grouping orders by `ReferralSource` and calculating total and average revenue sh
 3. Open any `.sql` file from the `queries` folder in SSMS and run the queries.
 
 ## Screenshots
-See the `screenshots/` folder for examples of queries and their results.
+
+### High-value credit card orders
+![High value credit card orders](screenshots/high_value_credit_card_orders.png)
+
+### Orders sorted by total price (descending)
+![Orders in descending order](screenshots/orders_in_descending_order.png)
+
+### Revenue per referral source
+![Revenue per referral source](screenshots/revenue_per_referral_source.png)
