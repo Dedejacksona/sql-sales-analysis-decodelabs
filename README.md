@@ -11,6 +11,9 @@ The dataset (`data/orders.csv`) contains 1,200 sales orders with columns includi
 - SQL Server Management Studio (SSMS)
 - VS Code (for organizing query files)
 
+## Related Projects
+- [SQL Sales Analysis](https://github.com/dedejacksona/sql-sales-analysis-decodelabs) — SQL queries on the same underlying dataset
+
 ## Project structure
 
 ```
