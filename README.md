@@ -1,4 +1,4 @@
-# SQL Sales Analysis Project
+# SQL Sales Analysis — Data Analytics internship project at DecodeLabs
 
 ## What is this project
 This is a Decodelabs Internship SQL project where I was assigned to write SQL queries on a real sales dataset of 1,200 orders to extract insights. I used SQL Server (via SSMS) to answer simple business questions, such as which referral source brings in the most revenue and which orders are high-value.
