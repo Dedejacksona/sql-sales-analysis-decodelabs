@@ -12,9 +12,9 @@ The dataset (`data/orders.csv`) contains 1,200 sales orders with columns includi
 - VS Code (for organizing query files)
 
 ## Related Projects
-- [SQL Sales Analysis](https://github.com/dedejacksona/sales-data-cleaning-decodelabs) — SQL queries on the same underlying dataset
-- [SQL Sales Analysis](https://github.com/dedejacksona/sales-data-eda-decodelabs) — SQL queries on the same underlying dataset
-- [SQL Sales Analysis](https://github.com/dedejacksona/sales-data-visualization-decodelabs) — SQL queries on the same underlying dataset
+- [Sales Data Cleaning](https://github.com/dedejacksona/sales-data-cleaning-decodelabs) — Excel cleaning process for the same underlying dataset
+- [Sales Data EDA](https://github.com/dedejacksona/sales-data-eda-decodelabs) — Exploratory data analysis on the same dataset
+- [Sales Data Visualization](https://github.com/dedejacksona/sales-data-visualization-decodelabs) — Charts and visual reporting on the same dataset
 
 ## Project structure
 
